@@ -1,0 +1,5 @@
+{
+  "name": "ShareBite - Community Food Sharing",
+  "description": "A modern, real-time web application for sharing surplus food within a community. Users can post available food, browse nearby listings, and claim items to reduce waste.",
+  "requestFramePermissions": []
+}
